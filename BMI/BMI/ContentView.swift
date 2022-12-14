@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  BMI
 //
-//  Created by Nono. on 13/08/2022.
+//  Created by Noura. on 13/08/2022.
 //
 
 import SwiftUI
